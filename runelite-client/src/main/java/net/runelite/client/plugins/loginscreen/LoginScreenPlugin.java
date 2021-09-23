@@ -266,7 +266,7 @@ public class LoginScreenPlugin extends Plugin implements KeyListener
 
 	private void applyUsername()
 	{
-		if (!config.syncUsername() )
+		if (!config.syncUsername())
 		{
 			return;
 		}
