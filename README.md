@@ -13,7 +13,6 @@ Isn't that a security risk?
 - [cache](cache/src/main/java/net/runelite/cache) - Libraries used for reading/writing cache files, as well as the data in it
 - [runelite-api](runelite-api/src/main/java/net/runelite/api) - RuneLite API, interfaces for accessing the client
 - [runelite-client](runelite-client/src/main/java/net/runelite/client) - Game client with plugins
-=======
 Yes. Saving your password to disk is not super secure. We are trading a little security for a lot of convenience. Just enable an authenticator and type that in once a month.
 
 ## How To Install RuneLite (BYCSYP)
